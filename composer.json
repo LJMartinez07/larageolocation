@@ -1,0 +1,19 @@
+{
+    "name": "ljmartinez07/larageolocation",
+    "description": "Larageolocation - A package where you will find all location you want",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Martinez",
+            "email": "mrluismartinez28@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "LJmartinez07\\Larageolocation\\": "src/"
+        }
+    },
+    "require": {}
+}
